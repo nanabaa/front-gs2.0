@@ -33,14 +33,14 @@ Contato - FAQ - Home - Integrantes - Soluções - Gerador
 App - Main - Index.css
 
 
-Link do repositório: 
+Link do repositório: https://github.com/nanabaa/front-gs2.0.git
 
 Link do vídeo: 
 
 
 Ana Clara de Oliveira Nascimento | RM561957 | 1TDSR
-git: https://github.com/isismodd
-linkedin: https://www.linkedin.com/in/isis-macedo-aa515920b/
+git: https://github.com/nanabaa
+linkedin: https://www.linkedin.com/in/anaclaraolinasc
 
 Isis Macedo e Andrade | RM561497 | 1TDSR
 git: https://github.com/isismodd
