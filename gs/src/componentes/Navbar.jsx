@@ -34,6 +34,16 @@ function Navbar() {
             Gerador de Equipes
           </Link>
         </li>
+        <li>
+          <Link to="/cadastro" className="hover:text-gray-400 font-bold text-lg sm:text-xl">
+            Cadastrar Membros
+          </Link>
+        </li>
+        <li>
+          <Link to="/projeto" className="hover:text-gray-400 font-bold text-lg sm:text-xl">
+            Cadastrar projetos
+          </Link>
+        </li>
       </ul>
     </nav>
   </>

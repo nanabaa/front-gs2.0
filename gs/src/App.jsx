@@ -8,6 +8,8 @@ import Solucoes from "./pages/Solucoes";
 import Contato from "./pages/Contato";
 import FAQ from "./pages/FAQ";
 import Gerador from "./pages/Gerador";
+import Cadastro from "./pages/Cadastro";
+import Projeto from "./pages/Projeto";
 
 function App() {
   return (
@@ -21,6 +23,8 @@ function App() {
           <Route path="/contato" element={<Contato />} />
           <Route path="/faq" element={<FAQ />} />
           <Route path="/gerador" element={<Gerador />} />
+          <Route path="/cadastro" element={<Cadastro />} />
+          <Route path="/projeto" element={<Projeto />}/>
         </Routes>
         </main>
 
