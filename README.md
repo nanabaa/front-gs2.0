@@ -25,7 +25,7 @@ Footer - Navbar - Cards dos integrantes
 
 3. Pasta de páginas, contendo:
 
-Contato - FAQ - Home - Integrantes - Soluções - Gerador
+Contato - FAQ - Home - Integrantes - Soluções - Cadastrar projetos - Cadastrar membros - Gerador de Equipe
 
 
 4. Além dessas pastas, a pasta SRC contém 3 arquivos importantes:
@@ -34,6 +34,10 @@ App - Main - Index.css
 
 
 Link do repositório: https://github.com/nanabaa/front-gs2.0.git
+
+Link do deploy: https://vercel.com/nanas-projects-0427453e/front-gs2.02/23mSHrUHnWWgMaPdKzpCqfgL9H97
+
+Link da Vercel: https://front-gs202.vercel.app/
 
 Link do vídeo: 
 
