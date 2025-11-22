@@ -17,10 +17,10 @@ Usamos das tecnologias REACT + VITE + TAILWIND CSS durante o desenvolvimento da 
 O site é composto por pastas encontradas dentro da pasta SRC.
 1. Nela contém a pasta de componentes, que abrange:
 
-Footer - Navbar - Cards dos integrantes
+Footer - Navbar - Cards dos integrantes - input - button
 
 
-2. Pasta de imagens contendo fotos de banners, integrantes, ícones de github e linkedin e foto do HC.
+2. Pasta de imagens contendo fotos de banners, integrantes, ícones de github e linkedin.
 
 
 3. Pasta de páginas, contendo:
@@ -39,7 +39,7 @@ Link do deploy: https://vercel.com/nanas-projects-0427453e/front-gs2.02/23mSHrUH
 
 Link da Vercel: https://front-gs202.vercel.app/
 
-Link do vídeo: 
+Link do vídeo: https://youtu.be/o1PiHSznB60
 
 
 Ana Clara de Oliveira Nascimento | RM561957 | 1TDSR
